@@ -9,4 +9,7 @@
                 ((:file "ch03")))
                (:module "ch08"
                 :components
-                ((:file "ch08")))))
+                ((:file "ch08")))
+               (:module "ch09"
+                :components
+                ((:file "ch09")))))
