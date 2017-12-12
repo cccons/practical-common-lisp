@@ -1,7 +1,10 @@
-(in-package #:cl-user)
-
 (defpackage #:ch08
-  (:use #:cl))
+  (:use #:cl)
+  (:export
+   #:primep
+   #:next-prime
+   #:do-primes
+   #:with-gensyms))
 
 (in-package #:ch08)
 

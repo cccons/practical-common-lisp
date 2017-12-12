@@ -1,7 +1,20 @@
-(in-package #:cl-user)
-
 (defpackage #:ch03
-  (:use #:cl))
+  (:use #:cl)
+  (:export
+   #:make-cd
+   #:add-record
+   #:dump-db
+   #:prompt-read
+   #:prompt-for-cd
+   #:add-cds
+   #:save-db
+   #:load-db
+   #:select
+   #:update
+   #:delete-rows
+   #:make-comparison-expr
+   #:make-comparisons-list
+   #:where))
 
 (in-package #:ch03)
 
