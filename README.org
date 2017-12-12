@@ -1,3 +1,4 @@
-# Practical Common Lisp Exercises
+#+TITLE: Practical Common Lisp Exercises
+#+AUTHOR: Cameron V Chaparro
 
 My implementation of the excercises (and other code) from the book Practical Common Lisp by Peter Seibel
